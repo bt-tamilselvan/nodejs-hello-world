@@ -1,4 +1,4 @@
-###1.Continuous Integration and Deployment of Node.js Application with Jenkins, AWS EC2, and Docker
+### Continuous Integration and Deployment of Node.js Application with Jenkins, AWS EC2, and Docker
 
 This project demonstrates how to set up continuous integration and deployment (CI/CD) for a Node.js application using Jenkins, Docker, and AWS EC2.
 
